@@ -11,6 +11,9 @@
 <a href="https://github.com/TheAdnan/focustube/graphs/contributors" target="_blank">
     <img src="https://img.shields.io/github/contributors/TheAdnan/focustube.svg" alt="Contributors">
   </a>
+<a href="https://addons.mozilla.org/en-US/firefox/addon/focustube-extension/" target="_blank">
+    <img src="https://img.shields.io/badge/Firefox-Addon-orange.svg" alt="Download">
+  </a>
 </p>
 <p align="center">
 Watch your YouTube videos while scrolling down through  the comments
@@ -20,7 +23,7 @@ Watch your YouTube videos while scrolling down through  the comments
 A WebExtension for watching YouTube videos while scrolling down the comment section.
 
 ### Installation
-You can install the extension from this [link](https://addons.mozilla.org/en-US/firefox/addon/focus-tube/). Cheers! 🎉
+You can install the extension from this [link](https://addons.mozilla.org/en-US/firefox/addon/focustube-extension/). Cheers! :tulip:
 
 #### Screenshots
 ![gif](https://i.imgur.com/HVInwzZ.gif)
